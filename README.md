@@ -1,2 +1,1 @@
-# Movie-Reviews-Sentiment-Analysis
-IBM internship project 2
+# Movie-Review-sentiments-analysis
